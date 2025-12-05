@@ -38,7 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 ## 🐍 Snake Animation
 <p align="center">
