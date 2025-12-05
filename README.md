@@ -4,6 +4,7 @@
 ---
 
 ## 🧑‍💻 About Me
+- 🎓 Computer Science student at PUCPR
 - 🔧 Backend developer focused on automation  
 - 📊 Data analysis & cybersecurity enthusiast  
 - 🧠 Passionate about building efficient solutions  
