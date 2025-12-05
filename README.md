@@ -1,52 +1,36 @@
-<h2 align="center">👋 Welcome to my GitHub profile!</h2>
+<!-- GIF de banner no topo -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</p>
+
+<h1 align="center">👋 Welcome to my GitHub profile!</h1>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🔧 Backend developer focused on automation  
 - 📊 Data analysis & cybersecurity enthusiast  
-- 🧠 Passionate about solving technical problems and building efficient solutions  
+- 🧠 Passionate about building efficient solutions  
 - 🌱 Currently learning: Node.js, JavaScript, Pandas  
 
 ---
 
-## 🚀 Skills
-- **Back-end Development**  
-  Python, PHP, SQL
+## 🧰 Languages & Tools
 
-- **Front-end Essentials**  
-  HTML5, CSS3, JavaScript (learning)
-
-- **Automation & Data**  
-  Pandas, Power BI
-
-- **Web Development**  
-  Node.js (learning)
-
----
-
-## 🛠️ Tools & Languages
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-  <br>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/>
 </p>
 
 ---
@@ -58,12 +42,43 @@
 
 ---
 
+## 📊 GitHub Stats
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PedroMagno07&theme=tokyonight" />
+</p>
+
+### 📈 Activity Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMagno07&theme=tokyo-night" />
+</p>
+
+### 🧪 Main Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMagno07&show_icons=true&theme=tokyonight" />
+</p>
+
+### 🧩 Languages Most Used
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMagno07&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Snake Animation
+<p align="center">
+  <img src="https://github.com/PedroMagno07/PedroMagno07/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📬 Contact
+
 <p align="left">
   <a href="mailto:phmagnolopes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/pedro-magno07/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
