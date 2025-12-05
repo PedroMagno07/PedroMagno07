@@ -1,7 +1,3 @@
-<!-- GIF de banner no topo -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
-</p>
 
 <h1 align="center">👋 Welcome to my GitHub profile!</h1>
 
@@ -43,28 +39,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PedroMagno07&theme=tokyonight" />
-</p>
-
-### 📈 Activity Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMagno07&theme=tokyo-night" />
-</p>
-
-### 🧪 Main Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMagno07&show_icons=true&theme=tokyonight" />
-</p>
-
-### 🧩 Languages Most Used
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMagno07&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🐍 Snake Animation
 <p align="center">
