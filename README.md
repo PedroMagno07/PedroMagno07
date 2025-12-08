@@ -34,8 +34,9 @@
 
 ## 📚 Currently Learning
 - Node.js  
-- JavaScript  
-- Pandas  
+- Pandas
+- PHP
+- C  
 
 ---
 
